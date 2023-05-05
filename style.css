@@ -1,0 +1,118 @@
+.bg {
+    background-image: url(image1.png);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#text-box {
+    background: #313534;
+    color: #fff;
+    position: absolute;
+    top: 325px;
+    left: 590px;
+    width: 365px;
+    height: 30px;
+    font-size: 20px;
+    letter-spacing: 8px;
+    text-align: center;
+    padding: 15px;
+    
+}
+#section-1{
+
+    background-color: #f4f4f4;
+    color: #666;
+    padding: 50px 80px;
+    text-align: center;
+}
+.bg-2{
+    background-image: url(image2.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#text-2{
+    position: relative;
+    top: 150px;
+    left: 559px;
+    background: #313534;
+    color: #fff;
+    width: 390px;
+    height: 30px;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-align: center;
+    padding: 15px;
+}
+#section-2{
+    background-color:#282e34;
+    color: #f4f4f4;
+    padding: 50px 80px;
+    text-align: center;
+    
+
+}
+#text-3{
+    position: relative;
+    top: 150px;
+    left: 470px;
+    background: #313534;
+    color: #fff;
+    width: 555px;
+    height: 30px;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-align: center;
+    padding: 15px;
+}
+.bg-3{
+    background-image: url(image3.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    top: -37px;
+
+}
+#section-3{
+    background-color:#282e34;
+    color: #f4f4f4;
+    padding: 50px 80px;
+    text-align: center;
+    position: relative;
+    top: -310px;
+}
+.bg-4{
+    background-image: url(image1.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    top: -343px;
+}
+#text-4{
+    position: relative;
+    top: 150px;
+    left: 559px;
+    background: #313534;
+    color: #fff;
+    width: 390px;
+    height: 30px;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-align: center;
+    padding: 15px;
+}
+#text-5{
+    position: relative;
+    top: -35px;
+}
